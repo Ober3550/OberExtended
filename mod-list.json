@@ -1,0 +1,24 @@
+{
+  "mods": [
+    {
+      "name": "base",
+      "enabled": true
+    },
+    {
+      "name": "Long Inserters",
+      "enabled": true
+    },
+    {
+      "name": "OberExtended",
+      "enabled": true
+    },
+    {
+      "name": "OberNuclear",
+      "enabled": true
+    },
+    {
+      "name": "Waterfill_v15",
+      "enabled": true
+    }
+  ]
+}
