@@ -9,11 +9,19 @@
       "enabled": true
     },
     {
-      "name": "Long Inserters",
+      "name": "auto-research",
       "enabled": true
     },
     {
-      "name": "MaxRateCalculator",
+      "name": "InfTechMultiplier",
+      "enabled": true
+    },
+    {
+      "name": "LongStackInserters",
+      "enabled": true
+    },
+    {
+      "name": "Moar-Grid",
       "enabled": true
     },
     {
@@ -22,18 +30,6 @@
     },
     {
       "name": "OberNuclear",
-      "enabled": true
-    },
-    {
-      "name": "OberRocketry",
-      "enabled": true
-    },
-    {
-      "name": "SpaceMod",
-      "enabled": true
-    },
-    {
-      "name": "Squeak Through",
       "enabled": true
     },
     {
