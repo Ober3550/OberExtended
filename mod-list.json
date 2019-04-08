@@ -1,37 +1,49 @@
+
 {
-  "mods": [
+  "mods": 
+  [
+    
     {
       "name": "base",
       "enabled": true
     },
+    
     {
       "name": "all-tiles-stack-to-1k",
-      "enabled": true
+      "enabled": true,
+      "version": "0.17.0"
     },
+    
     {
       "name": "auto-research",
       "enabled": true
     },
+    
     {
       "name": "InfTechMultiplier",
       "enabled": true
     },
+    
     {
       "name": "LongStackInserters",
       "enabled": true
     },
+    
     {
       "name": "Moar-Grid",
       "enabled": true
     },
+    
     {
       "name": "OberExtended",
       "enabled": true
     },
+    
     {
       "name": "OberNuclear",
       "enabled": true
     },
+    
     {
       "name": "Waterfill_v15",
       "enabled": true
